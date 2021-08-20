@@ -6,8 +6,8 @@
           <a href="#"> <img src="img/logo.png" alt="logo blog de viajes" /></a>
         </div>
         <ul class="nav-right">
-          <li><a href="#" class="btn btn-outline">Random</a></li>
-          <li><a href="#" class="btn btn-primary">Enviar pregunta</a></li>
+          <li><a href="/random" class="btn btn-outline">Random</a></li>
+          <li><a href="/submit" class="btn btn-primary">Enviar pregunta</a></li>
         </ul>
       </nav>
     </div>

@@ -166,6 +166,7 @@ aside hr {
 
 .post-container {
     height: 160px;
+    min-width: 420px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -197,7 +198,8 @@ aside hr {
 .post-body {
     display: table;
     height: 100px;
-    padding: 0.5em;
+    width: 100%;
+    padding: 1.5em;
 }
 
 .post-body p {
@@ -251,4 +253,36 @@ aside hr {
 
 .page-link:hover {
     color: #e92f2f;
+}
+
+.post-footer button {
+    float: right;
+    margin: 11px;
+    cursor: pointer;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .1rem;
+}
+
+.form-control:focus {
+    border-color: #ec4c4c;
+    outline: 0;
+}
+
+.text-left {
+    text-align: left;
 }
