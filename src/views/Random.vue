@@ -1,18 +1,24 @@
 <template>
-  <div class="post-container">
-    <p class="questions-info">24,00 preguntas publicadas</p>
+  <div class="col-6">
     <div class="post-content">
       <div class="post-header">
-        <i class="fas fa-redo" id="b-random"></i>
-        <i class="fas fa-flag" id="b-report"></i>
+        <div>
+          <i class="fas fa-redo b-random"></i>
+        </div>
+        <div>
+          <span class="post-title">100,000</span>
+        </div>
+        <div>
+          <i class="fas fa-flag b-report"></i>
+        </div>
       </div>
       <div class="post-body">
-        <input type="text" />
+        <b>Yo nunca nunca</b>
+        <p>He saltado en paracaidas</p>
       </div>
       <div class="post-footer">
-        <i class="far fa-heart"></i>
+        <i class="far fa-heart likebtn"></i>
       </div>
     </div>
-    <b class="post-likes">10,000 Me gusta</b>
   </div>
 </template>
