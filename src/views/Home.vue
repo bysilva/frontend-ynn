@@ -7,10 +7,12 @@
       <ul class="post-container-list">
         <li>
           <div class="post-content">
+            <div class="heartanim">
+              <i class="fas fa-heart"></i>
+            </div>
+
             <div class="post-header">
-              <div>
-                <i class="fas fa-redo b-random"></i>
-              </div>
+              <div></div>
               <div>
                 <span class="post-title">100,000</span>
               </div>
@@ -29,10 +31,12 @@
         </li>
         <li>
           <div class="post-content">
+            <div class="heartanim">
+              <i class="fas fa-heart"></i>
+            </div>
+
             <div class="post-header">
-              <div>
-                <i class="fas fa-redo b-random"></i>
-              </div>
+              <div></div>
               <div>
                 <span class="post-title">100,000</span>
               </div>
@@ -51,32 +55,12 @@
         </li>
         <li>
           <div class="post-content">
+            <div class="heartanim">
+              <i class="fas fa-heart"></i>
+            </div>
+
             <div class="post-header">
-              <div>
-                <i class="fas fa-redo b-random"></i>
-              </div>
-              <div>
-                <span class="post-title">100,000</span>
-              </div>
-              <div>
-                <i class="fas fa-flag b-report"></i>
-              </div>
-            </div>
-            <div class="post-body">
-              <b>Yo nunca nunca</b>
-              <p>He saltado en paracaidas</p>
-            </div>
-            <div class="post-footer">
-              <i class="far fa-heart likebtn"></i>
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="post-content">
-            <div class="post-header">
-              <div>
-                <i class="fas fa-redo b-random"></i>
-              </div>
+              <div></div>
               <div>
                 <span class="post-title">100,000</span>
               </div>

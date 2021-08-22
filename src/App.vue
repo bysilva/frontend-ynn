@@ -34,7 +34,7 @@
       </ul>
     </div>
 
-    <div class="contenido row">
+    <div class="contenido row s-column-reverse">
       <aside class="sidebar col-s-12 col-3">
         <p class="title">TAGS</p>
         <ul>
